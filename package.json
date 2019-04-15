@@ -1,0 +1,8 @@
+{
+  "name": "@jeneric/app",
+  "version": "1.0.0",
+  "description": "jeneric app",
+  "author": "Roman Eckert",
+  "license": "MIT",
+  "repository": "https://github.com/romaneckert/jeneric-app"
+}
